@@ -1,5 +1,6 @@
 <?php 
 echo "welcome to world";
+?>
 <html>
   <body>
   <h1>Hello</h1>
@@ -7,4 +8,4 @@ echo "welcome to world";
   <h3>Hello</h3>
   </body>
 </html>
-?>
+
